@@ -1,3 +1,9 @@
+# TMDB login example
+
+This is an example project about the authentication and login process using [TMDB](https://developers.themoviedb.org/3/authentication/how-do-i-generate-a-session-id) api.
+
+Replace the `API_KEY` constant value in the `fetchService.js` file with your own one.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
